@@ -1,7 +1,7 @@
 # FAQ
 
 <details>
-  <summary>###**Is Nela decentralized storage?**</summary>
+  <summary>**###Is Nela decentralized storage?**</summary>
   Yes and no. Nela itself is a decentralized ownership infrastructure, it comprises a set of components, some concerning file security and digital rights management and others concerning asset storage and asset delivery. Decentralized storage is only a component of Nela’s infrastructure.
 </details>
 
