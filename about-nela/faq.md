@@ -33,7 +33,7 @@ Lastly, Nela will release the Nela Browser. A browser client with all of Nela’
 
 </details>
 <details>
-  <summary>s Nela’s solution only fit for NFT owners?</summary>
+  <summary>Is Nela’s solution only fit for NFT owners?</summary>
   
 No. Nela is a decentralized ownership solution and live distribution network. Sophisticated but easy-to-use monetization strategies make it a prime tool to expand what owners are able to do with their NFTs. Keeping this in mind, since Nela provides a commercial grade, high-speed decentralized storage and delivery network also makes it prime infrastructure for decentralized websites, games and general digital file delivery.
   
