@@ -2,12 +2,19 @@
 
 * [About Nela](README.md)
   * [What is Nela?](readme/what-is-nela/README.md)
-    * [Page 1](readme/what-is-nela/page-1.md)
+    * [The Vision](readme/what-is-nela/the-vision.md)
+    * [NFT Owners](readme/what-is-nela/nft-owners.md)
+    * [Web3 Infrastructure](readme/what-is-nela/web3-infrastructure.md)
   * [How Nela Works](about-nela/how-nela-works.md)
   * [FAQ](about-nela/faq.md)
-* [The Nela Network](the-nela-network.md)
-* [Page 2](page-2.md)
-
-## Group 1
-
-* [Page 3](group-1/page-3.md)
+* [Decentralized File Security](decentralized-file-security/README.md)
+  * [ESeals](decentralized-file-security/eseals.md)
+  * [Real Time Encryption/Decryption](decentralized-file-security/real-time-encryption-decryption.md)
+  * [Security Modules](decentralized-file-security/security-modules/README.md)
+    * [DSFS & Security Sandbox](decentralized-file-security/security-modules/dsfs-and-security-sandbox.md)
+    * [Local Service](decentralized-file-security/security-modules/local-service.md)
+* [The Nela Network](the-nela-network/README.md)
+  * [Decentralized Storage](the-nela-network/decentralized-storage.md)
+  * [DSCAN](the-nela-network/dscan.md)
+* [The NEL Token](the-nel-token.md)
+* [Get Involved](get-involved.md)
