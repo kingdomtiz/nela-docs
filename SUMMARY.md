@@ -1,11 +1,11 @@
 # Table of contents
 
 * [What is Nela?](README.md)
-  * [The Vision](what-is-nela/the-vision.md)
-  * [NFT Owners](what-is-nela/nft-owners.md)
-  * [Web3 Infrastructure](what-is-nela/web3-infrastructure.md)
-* [How Nela Works](how-nela-works.md)
-* [FAQ](faq.md)
+  * [The Vision](nela/what-is-nela/the-vision.md)
+  * [NFT Owners](nela/what-is-nela/nft-owners.md)
+  * [Web3 Infrastructure](nela/what-is-nela/web3-infrastructure.md)
+* [How Nela Works](nela/how-nela-works.md)
+* [FAQ](nela/faq.md)
 * [Decentralized File Security](security/README.md)
   * [ESeals](security/eseals.md)
   * [Real Time Encryption/Decryption](security/real-time-encryption-decryption.md)
