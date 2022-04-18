@@ -30,9 +30,7 @@ For NFTs to gain mainstream adoption, it is crucial that their storage and deliv
 
 <summary>Security &#x26; Access Control</summary>
 
-
-
-Owners need control over who can access NFT assets and should be able to revoke access once given.
+Owners of digital assets should have total control over their assets. This means, control over who can access them, the ability to revoke access, and also control over the different permissions people are granted (the extent of use, distribution, duplication, etc.). This is especially important for assets which are not meant to be public such as digital collectibles, it is more apparent in cases such as private data, high-effort art such as music and movies, and legal documents.
 
 </details>
 
@@ -40,7 +38,7 @@ Owners need control over who can access NFT assets and should be able to revoke 
 
 <summary>Flexible Monetization</summary>
 
-Rentals, PPV, and limited-time rental are standard forms of licensing. Expanding NFTs to new domains requires having more than just an ownership transfer.
+Perhaps the greatest barrier to entry of NFTs into other commercial domains is the lack of tools to execute many real-life business-model specific monetization. To address this, infrastructure must cater towards time-based rental, subscription based use, pay-per-view, and pay-per-listen monetization models on assets. Expanding NFTs into new domains requires having more than just the standard ownership transfer.
 
 </details>
 
@@ -48,8 +46,8 @@ Rentals, PPV, and limited-time rental are standard forms of licensing. Expanding
 
 <summary>Digital Rights Management</summary>
 
-Protecting assets on the end-user side is a vital aspect of content distribution. High-value content requires protection from piracy, duplication, and IP theft.
+Protecting assets at the end-user side is a vital aspect of content distribution. High-value content requires protection from piracy, duplication, and IP theft. In order to truly realize the value of digital assets, their content must be resistant to abuse.
 
 </details>
 
-****
+By providing a solution which addresses all of the above, Nela sets the infrastructure to expand the use cases of NFTs. Through this, many domains can cater for true digital asset ownership and control without compromising their domain-specific practices.
