@@ -26,7 +26,9 @@ Nela's approach to file security boils down to the file level rather than the ob
 
 Just because a file is encrypted, does not mean it cannot be used. Nela's SDK provides an all encompassing range of tools for client-side real-time encryption and decryption of these encrypted files and are a product of global industry leaders in domains such as operating systems and file security.
 
-Even as a downloaded file on an end user's terminal, files must assert that an identity is permissioned through a private key corresponding to an ESeal entry of the encrypted file's header. This process happens automatically and seamlessly from the end user's perspective. If permissioned, a file is decrypted in real-time directly to the application using it. Furthermore, for each operation that the application interacts with the file (reading, copying, modifying, etc.),&#x20;
+Even as a downloaded file on an end user's terminal, files must assert that an identity is permissioned through a private key corresponding to an ESeal entry of the encrypted file's header. This process happens automatically and seamlessly from the end user's perspective. If permissioned, a file is decrypted in real-time directly to the application using it. Furthermore, for each operation in which the application interacts with the file (reading, copying, modifying, etc.), the user's permissions are asserted before decryption/encryption occurs. If it is the case the the operation is not valid, the software will redirect the process to maintain the integrity of the asset.
+
+The real-time encryption and decryption software allows users to unlock their corresponding ESeals in order to access the file's random key. This, however, is done in a way that prevents the user
 
 ### Security Modules
 
