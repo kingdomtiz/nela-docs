@@ -52,8 +52,16 @@ Because these modules work on the kernel layer of the operating system there is 
 
 The Local Service module provides Nela's functionality within a standard WebApp. Interacting directly with the network, the Local Service can utilize any encrypted media that can be played through your standard web development stack (image, music, video, etc.).
 
-&#x20;
+At its core, Local Service is a general HTTP server server that captures any URL of the form \[EDFS://\*]. there is no difference between using EDFS decentralized storage and HTTP from the user perspective.
+
+In addition, the module enables the encryption/decryption and access level control functionality to greatly simplify HTML-CSS-JS development of DApps.
 
 #### The Basic SDK
 
+The Basic Support Library on its own is a gateway for DApps to integrate EDFS encrypted files into all platforms including webpages, Windows, Unix-like, etc. The Basic Support Library can enforce access control on a file and serve it to users with permissions as described by the header, but cannot enforce full-lifecycle protection such as preventing copying and duplication on its own. When combined with other modules, more functionality of the EDFS protocol can be accessed.
+
 ### The Nela Browser
+
+To cater towards the largest developer demographic in the world, the Web developers, Nela simplifies development and accessibility to its tools and DApp ecosystem by developing the Nela Browser.&#x20;
+
+The Nela Browser is a web client fitted with the full functionality of Nela's SDK and security modules. DApp developers can simply create Nela encrypted NFT compatible WebApps, making the Nela Network Browser a one-stop-shop to access the Nela DApp ecosystem.
