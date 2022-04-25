@@ -19,9 +19,9 @@ Smart contracts are the interface to all access control operations. This provide
 
 **Programmable licensing** **on assets**&#x20;
 
-The combination of security with the flexibility of smart contracts brings about the notion of programmable licensing, a file owner can program sophisticated and automatic licensing and use-right models directly into the network. This has far-reaching implications for many real-world business models. From licensing music, and videos to gaming, and in fact, any business, or individual who sells or rents access to documents, online files, or datasets.\
-\
-**Nela decentralized storage**
+The combination of security with the flexibility of smart contracts brings about the notion of programmable licensing, a file owner can program sophisticated and automatic licensing and use-right models directly into the network. This has far-reaching implications for many real-world business models. From licensing music, and videos to gaming, and in fact, any business, or individual who sells or rents access to documents, online files, or datasets.
+
+### Decentralized Storage
 
 Nela decentralized storage is a state-of-the-art KAD network optimized for efficient scalability and encrypted file sharing and distribution. Nela decentralized storage has the following properties: \
 \
