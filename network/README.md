@@ -20,3 +20,18 @@ Smart contracts are the interface to all access control operations. This provide
 **Programmable licensing** **on assets**&#x20;
 
 The combination of security with the flexibility of smart contracts brings about the notion of programmable licensing, a file owner can program sophisticated and automatic licensing and use-right models directly into the network. This has far-reaching implications for many real-world business models. From licensing music, and videos to gaming, and in fact, any business, or individual who sells or rents access to documents, online files, or datasets.\
+\
+**Nela decentralized storage**
+
+Nela decentralized storage is a state-of-the-art KAD network optimized for efficient scalability and encrypted file sharing and distribution. Nela decentralized storage has the following properties: \
+\
+1\. All stored files are encrypted A Simplified distributed hash table (DHT). \
+2\. The Nela ESeal header and encrypted body are split into two different files. \
+3\. File header is appendable. \
+
+
+**A Simplified distributed hash table (DHT)**\
+****In Nela decentralized storage, the DHT stores the hash index of the file rather than the hashes for the parts. Therefore, storage nodes in the network store information on file parts. When a node is searched, it returns the parts information that it contains. Thus, the DHT needs to be searched only once when downloading a file from the decentralized storage, resulting in increased efficiency.
+
+**ESeal header** \
+In many use cases, the ESeal file may be of significant size (for example, it may reach 100MB if a million people were to rent independently). Therefore, Nela decentralized storage supports using key-value to store each ESeal item in the ESeal header. Additionally, to avoid creating new files after every change in authority control of a file, ESeal files are appendable. Lastly, the client only needs to download the ESeals corresponding to their own identity and not the entirety of the file.\

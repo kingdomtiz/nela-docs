@@ -7,6 +7,6 @@
 * [How Nela Works](nela/how-nela-works.md)
 * [FAQ](nela/faq.md)
 * [Decentralized File Security](security.md)
-* [The Nela Network](network.md)
+* [The Nela Network](network/README.md)
 * [The NEL Token](token.md)
 * [Get Involved](get-involved.md)
