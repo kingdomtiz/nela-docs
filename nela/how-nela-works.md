@@ -18,7 +18,7 @@ The approach for file security on Nela is novel - **security and permissions are
 
 Encrypted files are then uploaded to Nela's decentralized storage network. Anyone can download encrypted files directly off of the network, but as long as their addresses are not permissioned to access or use the data, they cannot do anything with the file.
 
-[decentralized-storage.md](../network/decentralized-storage.md "mention")
+[Broken link](broken-reference "mention")
 
 </details>
 
@@ -36,7 +36,7 @@ Once encrypted files are uploaded to the network, their access and permissions c
 
 Nela's decentralized CDN (DSCAN) is directly integrated to the storage layer of the network, providing fast HTTP access compatible with any device and huge performance increase on file delivery. By acting as a cacheing layer for Nela, popular files can be serviced in a scalable manner across the network.
 
-[dscan.md](../network/dscan.md "mention")
+[Broken link](broken-reference "mention")
 
 </details>
 
