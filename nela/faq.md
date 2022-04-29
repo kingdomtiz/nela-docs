@@ -30,13 +30,13 @@ No solution currently exists that provides the level of monetization flexibility
 
 <summary>What options are there for DApp developers to incorporate Nela’s functionality?</summary>
 
-Nela’s SDK is modular and calls to the network are HTTP based. At its most basic level, traditional websites can incorporate Nela’s access control functionality through a simple library and webpage, however they cannot guarantee full intellectual property protection, as this requires downloadable modules.
+Nela’s SDK is modular and calls to the network are HTTP based. At its most basic level, traditional websites can incorporate Nela’s access control functionality through a simple library and webpage. As long as the user has the Nela Wallet application, all of Nela's functionality can be harnessed.
+
+Without relying on Nela's Wallet application, DApp developers can integrate the different security modules directly.
 
 Nela’s SDK provides the Local Service module. Local Service can be incorporated straight into DApps developed using the standard webapp stack. User’s downloading these DApps will be able to use Nela’s full functionality for files accessible through the DApp.
 
-For the full effects of IP protection, DApp developers can incorporate the DSFS (Decentralized Secure Real-Time File System) and Security Sandbox modules to provide protection at the kernel layer of the operating system. With this, users will be able to use any type of file with any native software without the ability to duplicate or abuse the asset (a .psd file can be opened with Photoshp, a .mp4 with VLC, etc).
-
-Lastly, Nela will release the Nela Browser. A browser client with all of Nela’s modules built-in to it. User’s who access using the Nela Browser will have full access to Nela’s functionality and it will act as a portal for the DApp ecosystem
+For the full effects of IP protection, DApp developers can incorporate the DSFS (Decentralized Secure Real-Time File System) and Security Sandbox modules to provide protection at the kernel layer of the operating system. With this, users will be able to use any type of file with any native software without the ability to duplicate or abuse the asset (a .psd file can be opened with Photoshp, a .mp4 with VLC, etc.).
 
 </details>
 
@@ -44,7 +44,9 @@ Lastly, Nela will release the Nela Browser. A browser client with all of Nela’
 
 <summary>Is Nela’s solution only fit for NFT owners?</summary>
 
-No. Nela is a decentralized ownership solution and live distribution network. Sophisticated but easy-to-use monetization strategies make it a prime tool to expand what owners are able to do with their NFTs. Keeping this in mind, since Nela provides a commercial grade, high-speed decentralized storage and delivery network also makes it prime infrastructure for decentralized websites, games and general digital file delivery.
+No. Nela is a decentralized ownership solution and live distribution network. Sophisticated but easy-to-use monetization strategies make it a prime tool to expand what owners are able to do with their NFTs.&#x20;
+
+Keeping this in mind, since Nela provides a commercial grade, high-speed decentralized storage and delivery network, Nela is prime infrastructure for decentralized websites, games and general digital file delivery.
 
 </details>
 
@@ -60,7 +62,7 @@ No. Nela is not directly comparable to OpenSea or any other NFT trading platform
 
 <summary>Which projects are competitors to Nela</summary>
 
-There are no direct competitors to Nela. Although Nela provides decentralized storage, it is a decentralized ownership solution. Nela is an infrastructure solution for digital asset delivery, security and monetization, not just storage.
+There are no direct competitors to Nela. Although Nela provides decentralized storage, it is a decentralized ownership solution. Nela is an infrastructure solution for digital asset security, delivery and monetization, not just storage.
 
 </details>
 
@@ -68,7 +70,7 @@ There are no direct competitors to Nela. Although Nela provides decentralized st
 
 <summary>Which blockchains does Nela support?</summary>
 
-Nela provides its tools to NFTs which sit on other L1 chains through bridges. At first, Nela will support native Nela NFTs, Ethereum NFTs and Solana NFTs with the plans to develop additional bridges in the future.
+Nela provides its tools to NFTs which sit on other L1 chains through bridges. At first, Nela will support native Nela NFTs, NEAR NFTs, Ethereum NFTs and Solana NFTs with the plans to develop additional bridges in the future.
 
 </details>
 
@@ -109,8 +111,6 @@ Development is complete. Nela is currently going through internal stress testing
 <summary>How is the Nela network self-sustaining?</summary>
 
 Digital asset commerce is at the heart of the Nela network. Nela's economy is supported through its native token NEL which serves both as a utility and governance token. Demand for NEL is derived from the growth and utility of the network, users require NEL to access its utility and participate in asset commerce. Resource providers are incentivized through mining rewards emitted from the network as well as upload fees on digital assets and a percentage of the commerce that flows through the network.
-
-
 
 Mining rewards are built to sustain the network in the short term. Eventually, infrastructure will be self-sustained as commerce on the network grows and the ecosystem develops.
 

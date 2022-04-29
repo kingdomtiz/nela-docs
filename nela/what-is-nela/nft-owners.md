@@ -6,7 +6,7 @@ At Nela, we believe that in order to ensure the longevity of NFTs and their main
 
 <summary>Immutability</summary>
 
-NFTs are only an ownership record system, they only maintain a link. Underlying assets must be stored off-chain. If the original file uploader can change the underlying assets (“pulling the rug”), the NFT loses its value. It is therefore crucial that the off-chain assets are immutable so that secondary owners of the NFT maintain the asset they originally purchased.
+NFTs are only an ownership record system, they only maintain a link. Underlying assets must be stored off-chain. If the original file uploader can change the underlying asset (“pulling the rug”), the NFT loses its value. It is therefore crucial that the off-chain assets are immutable so that secondary owners of the NFT maintain the asset they originally purchased.
 
 </details>
 
@@ -22,7 +22,7 @@ NFT assets are stored off-chain, in some instances on decentralized storage and 
 
 <summary>Performance</summary>
 
-For NFTs to gain mainstream adoption, it is crucial that their storage and delivery are comparable to that of the status quo. That means, high-speed download/upload in order to support high-performance applications such as 4K streaming, gaming and VR. Additionally infrastructure must be cater to any file type and file size.
+For NFTs to gain mainstream adoption, it is crucial that their storage and delivery are comparable to that of the status quo. That means, high-speed download/upload in order to support high-performance applications such as 4K streaming, gaming and VR. Additionally infrastructure must be able to cater to any file type and file size.
 
 </details>
 
@@ -30,7 +30,7 @@ For NFTs to gain mainstream adoption, it is crucial that their storage and deliv
 
 <summary>Security &#x26; Access Control</summary>
 
-Owners of digital assets should have total control over their assets. This means, control over who can access them, the ability to revoke access, and also control over the different permissions people are granted (the extent of use, distribution, duplication, etc.). This is especially important for assets which are not meant to be public such as digital collectibles, it is more apparent in cases such as private data, high-effort art such as music and movies, and legal documents.
+Owners of digital assets should have total control over their assets. This means, control over who can access them, the ability to revoke access, and also control over the different permissions people are granted (the extent of use, distribution, duplication, etc.). This is especially important for assets which are not meant to be public as opposed to digital collectibles, it is more apparent in cases such as private data, high-effort art such as music and movies, and legal documents.
 
 </details>
 
@@ -38,7 +38,7 @@ Owners of digital assets should have total control over their assets. This means
 
 <summary>Flexible Monetization</summary>
 
-Perhaps the greatest barrier to entry of NFTs into other commercial domains is the lack of tools to execute many real-life business-model specific monetization. To address this, infrastructure must cater towards time-based rental, subscription based use, pay-per-view, and pay-per-listen monetization models on assets. Expanding NFTs into new domains requires having more than just the standard ownership transfer.
+Perhaps the greatest barrier to entry of NFTs into other commercial domains is the lack of tools to execute many real-world business-model specific monetization. To address this, infrastructure must cater towards time-based rental, subscription based use, pay-per-view, and pay-per-listen monetization models on assets. Expanding NFTs into new domains requires having more than just the standard ownership transfer.
 
 </details>
 
