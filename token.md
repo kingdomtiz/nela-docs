@@ -5,3 +5,5 @@ Nela's native token NEL, acts both as a utility token for users in the network a
 1. Staking (as a resource provider or L2 bridge provider).
 2. Gas and transaction fees for using Nela’s functionality.
 3. Voting in the DAO mechanism.
+
+_More information can be found in Nela's Whitepaper and further details to be released soon._

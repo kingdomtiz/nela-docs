@@ -54,3 +54,13 @@ When a user downloads a file to the network:&#x20;
 3. The proxy/cache node will maintain the copy of the full file in the cache.
 
 DSCAN is an evolution of CDN networks. Compared to traditional CDNs, the acceleration effect is correlated to the number of nodes. In DSCAN, since every node participates in the proxy/cache layer, the greater the network size, the greater the impact. In addition to this DSCAN employs routing optimization algorithms, different users are directed to various nearby nodes, which are resistant to DDOS attacks. Traditional decentralized systems use XOR routing addressing, and the results are inaccurate. In DSCAN, routing is based on the actual detection RTT results, which seek the fastest path to synchronize data or services.
+
+### Consensus
+
+As mentioned, every node in the network (besides bridge providers) support three basic functionalities - storage, proxy/cacheing, and maintaining the blockchain.
+
+Maintaining the blockchain consensus is done through Proof of Stake. The caveat with Nela is that staking is limited to the amount of storage that is provided by the node. Since every node is a storage provider, it must stake proportionally to the amount of storage which it provides. The amount of storage provided is verified through the Proof of Replication and Proof of Spacetime mechanisms.
+
+An additional novelty with Nela's storage mechanism is that there is no direct relation between the user storing the file and the storage node nor incentive for a miner to store one file over the other. Instead, the file storage strategy (i.e. which storage node stores what data) is dictated by the network to optimize efficiency of delivery and security of stored files. When a network dictates that a certain node should store a particular file and that node declines to do so, it will be punished, and a portion of its staked tokens removed.
+
+_More information can be found in Nela's Whitepaper and further details to be released soon._
