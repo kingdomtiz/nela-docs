@@ -25,7 +25,7 @@ Nela's decentralized storage is a state-of-the-art KAD network optimized for eff
 1. All stored files are encrypted.&#x20;
 2. A simplified distributed hash table (DHT).&#x20;
 3. The Nela ESeal header and encrypted body are split into two different files.&#x20;
-4. Encrypted file headers are append-able.
+4. Encrypted file headers are append-able and accessible on demand.
 
 **A Simplified Distributed Hash Table (DHT).**&#x20;
 
@@ -36,6 +36,8 @@ In Nela’s decentralized storage, the DHT stores the hash index of the file rat
 In many use cases, the ESeal header file may be of significant size (for example, it may reach 100MB if one million people were to rent the file independently). Therefore, Nela’s decentralized storage supports using key-value to store each ESeal item in the ESeal header. The client only needs to download the ESeals corresponding to their own identity and not the entirety of the file.
 
 Additionally, to avoid creating new files after every change in authority control of a file, ESeal files are stored as separate files from the file body and are append-able within Nela’s decentralized storage.
+
+ESeal header files are associated to their body counterparts internally in the network. The hash code of the original unencrypted file body is what is used for indexing.
 
 ### Decentralized Secured Content Acceleration Network (DSCAN)
 

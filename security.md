@@ -56,10 +56,6 @@ At its core, Local Service is a general HTTP server that captures any URL of the
 
 In addition, the module enables the encryption/decryption and access level control functionality to greatly simplify HTML-CSS-JS development of DApps.
 
-#### The Basic SDK
-
-The Basic Support Library on its own is a gateway for DApps to integrate EDFS encrypted files into all platforms including webpages, Windows, Unix-like, etc. The Basic Support Library can enforce access control on a file and serve it to users with permissions as described by the header, but cannot enforce full-lifecycle protection such as preventing copying and duplication on its own. When combined with other modules, more functionality of the EDFS protocol can be accessed.
-
 ### The Nela Wallet
 
 Accessibility and simplicity of use is a core component for adoptability. Nela will release a wallet application which will also incorporate all of the security modules as built in. By doing so, development can cater towards the largest developer demographic in the world, the Web developers.
